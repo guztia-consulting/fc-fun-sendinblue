@@ -1,4 +1,4 @@
-# Function Compute + SendinBlue
+# Function Compute + Fun + SendinBlue
 
 This example is been created to help you understand how to easily deal with emails when working on serverless
 architectures on Alibaba Cloud Function Compute.
